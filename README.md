@@ -1,5 +1,5 @@
 # Undertow eSports' Auto Announcements
-This repository contains all the information needed to setup automantic announcements in the Undertow Discords.
+This repository contains all the information needed to setup automatic announcements in the Undertow Discords.
 
 * [Twitch Auto Announcements Using IFTTT](/twitch.md)
 
