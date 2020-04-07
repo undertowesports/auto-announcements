@@ -4,9 +4,9 @@ This repository contains all the information needed to setup automatic announcem
 * [Twitch Auto Announcements Using IFTTT](/twitch.md)
 
 ## Bugs
-If you have found a bug and would like to report it, [create an issue](https://github.com/undertowesports/gamepad-viewer/issues).
+If you have found a bug and would like to report it, [create an issue](https://github.com/undertowesports/auto-announcements/issues).
 
-If you have found a bug and would like to fix it, [create a pull request](https://github.com/undertowesports/gamepad-viewer/pulls).
+If you have found a bug and would like to fix it, [create a pull request](https://github.com/undertowesports/auto-announcements/pulls).
 
 
 #### License: MIT
