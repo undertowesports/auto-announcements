@@ -3,7 +3,7 @@ To setup automatic announcements for when a Twitch Streamer goes live, head over
 
 Head over to Discord and create a new Webhook. Configure the settings as needed. After you're done, copy the Webhook URL and paste it in "Make a web request" on IFTTT. Also select whichever channel you want auto announcements for. Change the "Method" to `POST` and "Content Type" to `application/json`.
 
-After all that's done, use the template below as the "Body." Remember to change `role_id` in `content` and `twitch_profile_picture_url` in `thumbnail.url` and `author.url`. This example uses all available ingredients except `CurrentViewers`.
+After all that's done, use the template below as the "Body." Remember to change `role_id` in `content` and `twitch_profile_picture_url` in `thumbnail.url` and `author.url`. This example uses all available ingredients except `CurrentViewers`. **If you are looking at this on the website, the template does not appear correctly. Please [view this in the repository.](https://github.com/undertowesports/auto-announcements/blob/master/twitch.md)**
 
 ```json
 {
